@@ -1,5 +1,5 @@
 # HP Probook 450 G6 Hackintosh
-My OpenCore config for the HP Probook 450 G6, Tested with Catalina and BigSur. This isn't complete though, as theres a bit you'd need to do yourself.
+My OpenCore config for the HP Probook 450 G6, Tested with Catalina, BigSur, and Monterey. This isn't complete though, as theres a bit you'd need to do yourself.
 ![Screenshot](https://preview.redd.it/ef9zaiqjy4p71.png?width=1366&format=png&auto=webp&s=a4f4f0473a0866d5fccdd3be49b52b8eca415504)
 # Hardware Info
 
